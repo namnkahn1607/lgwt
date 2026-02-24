@@ -1,4 +1,4 @@
-package arrayslices
+package array_slice
 
 import (
 	"reflect"
